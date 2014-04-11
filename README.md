@@ -10,6 +10,8 @@
 * QQ/Weixin: 1620443
 * Email: qyuhen@hotmail.com
 
+ **捐助:** <a href='http://me.alipay.com/qyuhen'> <img src='https://img.alipay.com/sys/personalprod/style/mc/btn-index.png' /> </a>
+
 ---
 
 ###关于 《Go 学习笔记》第二版
