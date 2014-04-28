@@ -14,9 +14,7 @@
 
 ---
 
- **捐助：** 
-
- <a href='http://me.alipay.com/qyuhen'> <img src='https://img.alipay.com/sys/personalprod/style/mc/btn-index.png' /> </a>
+购买 VPS 的款项已经落实，暂时不再接受捐赠。谢谢！
 
 ---
 
