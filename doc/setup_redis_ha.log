@@ -39,3 +39,10 @@ sentinel monitor mymaster master_ip(x.x.x.x) master_port(6379) 2
 sentinel down-after-milliseconds mymaster 5000
 sentinel failover-timeout mymaster 60000
 sentinel parallel-syncs mymaster 1
+
+
+
+
+
+
+refer to https://redis.io/topics/sentinel
