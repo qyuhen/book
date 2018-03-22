@@ -35,7 +35,7 @@ slaveof master_ip(x.x.x.x) master_port(6379)
 daemonize yes
 port 26379
 protected-mode no
-sentinel monitor mymaster master_ip(9.42.19.105) master_port(6379) 2
+sentinel monitor mymaster master_ip(x.x.x.x) master_port(6379) 2
 sentinel down-after-milliseconds mymaster 5000
 sentinel failover-timeout mymaster 60000
 sentinel parallel-syncs mymaster 1
