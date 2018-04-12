@@ -1,0 +1,48 @@
+# setup.sh for ubuntu
+
+apt-get install -y make
+apt-get install -y tcl
+apt-get install -y gcc
+workDir="db-dir"
+cd /opt
+wget http://download.redis.io/releases/redis-3.2.11.tar.gz
+wget https://github.com/jemalloc/jemalloc/releases/download/5.0.1/jemalloc-5.0.1.tar.bz2
+mkdir jemalloc
+tar -jxvf ./jemalloc-5.0.1.tar.bz2 -C jemalloc
+cd jemalloc/jemalloc-5.0.1
+./configure
+make
+cd /opt
+tar -xzvf redis-3.2.11.tar.gz
+cd /opt/redis-3.2.11/
+make MALLOC=libc
+make install
+mkdir -p workspace/${workDir}
+cp redis.conf ./workspace/${workDir}
+cp sentinel.conf ./workspace/${workDir}
+
+#redis.conf in master node
+protected-mode no
+port 6379
+daemonize yes
+slave-read-only yes
+
+#redis.conf in master node 
+slaveof master_ip(x.x.x.x) master_port(6379)
+
+
+#sentinel.conf
+daemonize yes
+port 26379
+protected-mode no
+sentinel monitor mymaster master_ip(x.x.x.x) master_port(6379) 2
+sentinel down-after-milliseconds mymaster 5000
+sentinel failover-timeout mymaster 60000
+sentinel parallel-syncs mymaster 1
+
+
+
+
+
+
+refer to https://redis.io/topics/sentinel

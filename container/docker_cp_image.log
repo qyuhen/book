@@ -1,0 +1,3 @@
+docker save -o X.tar Y:Z
+scp A to B
+docker load < X.tar

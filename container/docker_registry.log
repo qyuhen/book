@@ -1,0 +1,11 @@
+First Step
+$ mkdir -p certs
+Second Step
+$ openssl req \
+  -newkey rsa:4096 -nodes -sha256 -keyout certs/domain.key \
+  -x509 -days 365 -out certs/domain.crt
+  
+  Be sure to use the name myregistrydomain.com as a CN.
+  
+ Third Step
+  Linux: Copy the domain.crt file to /etc/docker/certs.d/myregistrydomain.com:5000/ca.crt on every Docker host. You do not need to restart Docker.
