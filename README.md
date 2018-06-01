@@ -1,10 +1,18 @@
-**学习笔记**
+# 学习笔记
 
 雨痕个人学习笔记，仅供参考。
+
+正在连载《Go 1.10 runtime 源码剖析》。相关信息请关注公众号。
 
 * 如发现任何错漏，请及时反馈给我。谢谢！
 * 如笔记内容对您有所帮助，请帮忙传播。
 * 带书签的版本由 starchou 帮忙制作，雨痕不能保证同步更新。
+
+
+**实体书：**
+
+* [《Go 学习笔记》](https://item.jd.com/11944267.html)
+* [《Python 3 学习笔记》](https://item.jd.com/12261161.html)
 
 ---
 
@@ -27,4 +35,5 @@
 * 微博: weibo.com/qyuhen
 * 邮件: qyuhen@hotmail.com
 
-最新内容请浏览微博信息。
+<img src="qrcode.jpg" width=200 height=200 alt="公众号" />
+<img src="qyuhen.jpeg" width=200 height=200 alt="微信号" />
