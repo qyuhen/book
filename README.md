@@ -1,6 +1,10 @@
 # 学习笔记
 
 
+新开了 “雨痕公开课 - Python” 群。“雨痕公开课 - Go” 群人满了，只能加我的微信（见下面二维码）拉人。
+目前，Go 群每周两节正式课，每天临时抽疯另计。
+
+
 新增《Go 学习笔记 第六版》下卷 - 预览版。
 
 ---
@@ -38,5 +42,4 @@
 * 微博: weibo.com/qyuhen
 * 邮件: qyuhen@hotmail.com
 
-<img src="qrcode.jpg" width=200 height=200 alt="公众号" />
 <img src="qyuhen.jpeg" width=200 height=200 alt="微信号" />
