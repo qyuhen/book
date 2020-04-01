@@ -1,3 +1,11 @@
+
+![alt 知识星球](zsxq-qyuhen.png)
+
+内容示例：[《Python 3.8, 基础准备》](https://www.yuque.com/docs/share/21967d9a-da33-42eb-9c3a-2a525ae634a3?#)
+
+初步计划在这里发布《Go 学习笔记，第六版》和《Python 3 学习笔记》下卷。
+
+
 # 学习笔记
 
 * 201903:《Go 学习笔记 第六版》本月开始写，基于 Go 1.12。
