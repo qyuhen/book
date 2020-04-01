@@ -1,6 +1,4 @@
 
-![alt 知识星球](zsxq-qyuhen.png)
-
 <img src="zsxq-qyuhen.png" width=300 height=408 alt="知识星球" />
 
 内容示例：[《Python 3.8, 基础准备》](https://www.yuque.com/docs/share/21967d9a-da33-42eb-9c3a-2a525ae634a3?#)
