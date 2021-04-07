@@ -1,15 +1,8 @@
 
-<img src="zsxq-qyuhen.png" width=300 height=408 alt="知识星球" />
+# 2021
 
-内容示例：[《Python 3.8, 基础准备》](https://www.yuque.com/docs/share/21967d9a-da33-42eb-9c3a-2a525ae634a3?#)
+公开课：[《NASM 2012》](https://www.yuque.com/qyuhen/asm2021) 视频版
 
-
----
-
-# 学习笔记
-
-* 201903:《Go 学习笔记 第六版》本月开始写，基于 Go 1.12。
-* 201903: 公开课在聊 Go 1.12 runtime 的内容。
 
 ---
 
@@ -27,22 +20,6 @@
 
 ---
 
-**更新记录**
-
-* 2014-03-08: 发布《Go 学习笔记》第二版。
-* 2014-05-27: 发布《Go 学习笔记》第三版。
-* 2015-01-15: 发布《Go 学习笔记》第四版。
-* 2015-12-18: 发布《Go 学习笔记》第五版下册《源码剖析》。
-* 2016-04-01: 出版《Go 学习笔记》第五版，可于京东等网站购买。
-
-* 2013-01-09: 发布《Python 学习笔记》第二版。
-* 2018-01-01: 出版《Python 学习笔记》第三版，可于京东等网站购买。
-
----
-
-**联系方式：**
-
-* 微博: weibo.com/qyuhen
-* 邮件: qyuhen@hotmail.com
-
 <img src="qyuhen.jpeg" width=200 height=200 alt="微信号" />
+<img src="zsxq-qyuhen.png" width=300 height=408 alt="知识星球" />
+
