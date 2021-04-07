@@ -2,8 +2,8 @@
 # 2021
 
 
-04.07 公开课：[《NASM 2012》](https://www.yuque.com/qyuhen/asm2021) 视频版
-
+公开课：[《NASM 2021》](https://www.yuque.com/qyuhen/asm2021) 视频版
+预览版：[《Go 2021》](https://www.yuque.com/qyuhen/go2021)
 
 ---
 
