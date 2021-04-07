@@ -1,7 +1,8 @@
 
 # 2021
 
-公开课：[《NASM 2012》](https://www.yuque.com/qyuhen/asm2021) 视频版
+
+04.07 公开课：[《NASM 2012》](https://www.yuque.com/qyuhen/asm2021) 视频版
 
 
 ---
@@ -21,5 +22,4 @@
 ---
 
 <img src="qyuhen.jpeg" width=200 height=200 alt="微信号" />
-<img src="zsxq-qyuhen.png" width=300 height=408 alt="知识星球" />
 
