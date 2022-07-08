@@ -1,25 +1,23 @@
 
-# 2021
+# 2022.07
+
+《NASM 程序设计》(https://www.yuque.com/books/share/e86e5246-c8e8-49c3-9281-3743b853b9e6?#)
+《C 程序设计》(https://www.yuque.com/books/share/9d43e181-7afb-48ce-9636-f40eec07922e?#)
 
 
-* 公开课：[《NASM 2021》](https://www.yuque.com/qyuhen/asm2021) 视频版
-* 预览版：[《Go 2021》](https://www.yuque.com/qyuhen/go2021)
+##《Go 学习笔记，第六版》
+
+* 更新到 1.18，包括模块和泛型内容。
+* 运行时源码剖析，已完成。
+* 标准库使用及源码剖析，还剩 net 部分内容。
+* 语言部分，还剩前 5 章。
+
+
+##《Rust 学习笔记，第一版》
+
+* 语言部分初步完成。
+
 
 ---
 
-雨痕个人学习笔记，仅供参考。
-
-* 如发现任何错漏，请及时反馈给我。谢谢！
-* 如笔记内容对您有所帮助，请帮忙传播。
-* 带书签的版本由 starchou 帮忙制作，雨痕不能保证同步更新。
-
-
-**实体书：**
-
-* [《Go 学习笔记》](https://item.jd.com/11944267.html)
-* [《Python 3 学习笔记》](https://item.jd.com/12261161.html)
-
----
-
-<img src="qyuhen.jpeg" width=200 height=200 alt="微信号" />
-
+相关信息在星球内发布。
