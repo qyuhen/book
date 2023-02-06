@@ -2,15 +2,10 @@
 # 2022.07
 
 
+[《Rust 程序设计》](https://www.yuque.com/qyuhen/rust)
 [《Go 程序设计》](https://www.yuque.com/qyuhen/go)
 [《NASM 程序设计》](https://www.yuque.com/qyuhen/asm)
 [《C 程序设计》](https://www.yuque.com/qyuhen/c11)
-
----
-
-## 《Rust 学习笔记，第一版》
-
-* 语言部分初步完成。
 
 ---
 
